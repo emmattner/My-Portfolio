@@ -8,19 +8,20 @@ background-color: deepskyblue;
 h1{
     color: chartreuse;
     font-style: oblique;
-    font-family: cursive;
+    font-family: 
+
 }
 
 .header{
     display: flex;
     justify-content: space-between;
-    padding: 1%;
+    padding: 20px;
     background-color: white;
     color: cyan;
 
 }
 
-.nav ul{
+nav ul{
     display: flex;
     justify-content: space-between;
     min-width: 300px;
