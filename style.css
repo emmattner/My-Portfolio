@@ -1,9 +1,35 @@
+.body{
+display: block;
+box-sizing: border-box;
+
+}
+h1{
+    color: chartreuse;
+}
+
 .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: antiquewhite;
+    color: cyan;
+x
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+    list-style: none;
 
 
 }
 
-.home-title{
+.intro{
+font-size: large;
+font-family: cursive;
 
-    
+
+
 }
