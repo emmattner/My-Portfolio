@@ -1,18 +1,21 @@
 body{
 display: block;
+flex-direction: column;
+background-color: deepskyblue;
 
 
 }
 h1{
     color: chartreuse;
+    font-style: oblique;
+    font-family: cursive;
 }
 
 .header{
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 1%;
-    background-color: antiquewhite;
+    background-color: white;
     color: cyan;
 
 }
