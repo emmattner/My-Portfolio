@@ -1,40 +1,49 @@
 body{
 display: block;
 flex-direction: column;
-background-color: deepskyblue;
-
-
-}
-h1{
-    color: chartreuse;
-    font-style: oblique;
-    font-family: 
-
+background-color: white;
 }
 
-.header{
+.container1 {
+    grid-template-columns: 40px 80px;
+    grid-template-rows: 40px 80px;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: oldlace;
+
+    
+}
+
+.container2{
+    grid-template-columns: 40px 80px;
+    grid-template-rows: 40px 80px;
+}
+
+header{
     display: flex;
     justify-content: space-between;
     padding: 20px;
     background-color: white;
-    color: cyan;
+    
 
 }
 
-nav ul{
+nav ul {
     display: flex;
     justify-content: space-between;
     min-width: 300px;
     list-style: none;
     box-sizing: border-box;
-
-
-
 }
 
-.intro{
-font-size: large;
-font-family: cursive;
+nav li {
+    display: flex; 
+    justify-content: space-between;
+}
+h1{
+    color: space grey ;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 
 
 
