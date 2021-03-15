@@ -24,14 +24,14 @@ body{
 }
 .image-item{
     max-height: 200px;
+    flex-wrap: wrap;
 }
 
 header{
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-color: white;
-    
+    background-color: white;  
 
 }
 
@@ -48,7 +48,17 @@ h1{
     color: burlywood ;
     font-style: oblique;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
 
+/* Tablets */
+@media screen and (max-width: 992px) {
 
+}
+/*Large Smartphones*/
+@media screen and (max-width: 768px) {
+
+}
+/*Small Smartphones*/
+@media screen and (max-width: 576px) {
 
 }
