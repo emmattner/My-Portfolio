@@ -1,0 +1,9 @@
+# My-Portfolio
+
+Here I have created my first Portfolio.
+
+I have created this portfolio to showcase my skills that I have learnt so far in my studies. I have included previous projects as well as a bit about me and my contact details. 
+
+The motivation for this portfolio is to help me apply for future jobs and is an easy way to store all my information and projects that so everyhting is readily available for future employers.
+
+I have learnt that portfolios are a very important factor in future employment and will be a great way to give future employers access 
