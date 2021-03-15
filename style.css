@@ -17,12 +17,13 @@ body{
     background-color: oldlace;
 }
 
-.container2{
-    grid-template-columns: 40px 80px;
-    grid-template-rows: 40px 80px;
+.my-work, .about-me, .resume, .contact-me {
     padding: 30px;
     color: burlywood;
     margin-bottom: 20px;
+}
+.image-item{
+    max-height: 200px;
 }
 
 header{
