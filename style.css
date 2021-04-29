@@ -22,8 +22,14 @@ body{
     color: burlywood;
     margin-bottom: 20px;
 }
-.image-item{
+.image-item {
     max-height: 200px;
+    flex-wrap: wrap;
+}
+
+.image-item3 {
+    max-height: 190px;
+    max-width: 360px;
     flex-wrap: wrap;
 }
 
