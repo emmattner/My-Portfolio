@@ -8,6 +8,9 @@ The motivation for this portfolio is to help me apply for future jobs and is an 
 
 I have learnt that portfolios are a very important factor in future employment and will be a great way to give future employers access to all my previous work for them to review. 
 
+# Deployment Link
+https://emmattner.github.io/My-Portfolio/
+
 # Key Features
 About Me
 My Work
