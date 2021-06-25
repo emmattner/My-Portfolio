@@ -21,6 +21,8 @@ body{
     padding: 30px;
     color: burlywood;
     margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
 }
 .image-item {
     max-height: 200px;
@@ -32,19 +34,6 @@ body{
     max-width: 360px;
     flex-wrap: wrap;
 }
-
-/* .hero-container {
-    position: absolute;
-    bottom: 0;
-    top: 0;
-    left: 0;
-    right: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    padding: 0 15px;
-} */
 
 header{
     display: flex;
@@ -65,7 +54,8 @@ nav ul {
 h1{
     color: burlywood ;
     font-style: oblique;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }
 
 .footer{
