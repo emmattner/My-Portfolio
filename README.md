@@ -17,5 +17,5 @@ My Work
 Resume
 Contact
 
-<img width="1429" alt="Portfolio" src="https://user-images.githubusercontent.com/78684306/111231993-201e1680-863a-11eb-90b1-bd5c8a3202f1.png">
+<img width="1429" alt="Portfolio" src="portfolio2.png">
 
