@@ -16,6 +16,6 @@ About Me
 My Work
 Resume
 Contact
+<img width="1433" alt="portfolio2" src="https://user-images.githubusercontent.com/78684306/123613099-4e6adf00-d842-11eb-9d73-0bcabbc22860.png">
 
-<img width="1429" alt="Portfolio" src="https://user-images.githubusercontent.com/78684306/111231993-201e1680-863a-11eb-90b1-bd5c8a3202f1.png">
 
